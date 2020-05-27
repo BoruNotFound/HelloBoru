@@ -1,4 +1,4 @@
-This is the folder for assignments from coursera Web Development course:
+This is the folder for assignment solutions for coursera Web Development course:
 
 __HTML, CSS, and JavaScript for Web Developers__
 
